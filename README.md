@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahar Pery</h1>
-<h3 align="center">Passionate autodidact developer striving to create and deliver meaningful and valuable solutions.</h3>
+<h1>Hi 👋, I'm Shahar Pery</h1>
+<h3>Passionate autodidact developer striving to create and deliver meaningful and valuable solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
