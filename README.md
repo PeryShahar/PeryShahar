@@ -1,4 +1,5 @@
-[Shahar Pery Cover](https://github.com/PeryShahar/PeryShahar/assets/89962400/3dc38fd5-df63-46a0-b442-2c79b120810f)
+
+![Shahar Pery Cover](https://github.com/PeryShahar/PeryShahar/assets/89962400/e9ddf4cb-31a3-426e-936a-0a07ba75f56f)
 
 <h1>Hi 👋, I'm Shahar Pery</!
 h1>
