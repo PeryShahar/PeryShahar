@@ -1,5 +1,5 @@
-file:///home/hilma/Downloads/Shahar%20Pery%20Cover%20Logo.png
 
+![Shahar Pery Cover Logo](https://github.com/PeryShahar/PeryShahar/assets/89962400/19676f6d-8a41-4c2e-8c08-62e6d2a27da4)
 
 <h1>Hi 👋, I'm Shahar Pery</h1>
 <h3>Passionate autodidact developer striving to create and deliver meaningful and valuable solutions.</h3>
