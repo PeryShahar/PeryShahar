@@ -1,3 +1,6 @@
+file:///home/hilma/Downloads/Shahar%20Pery%20Cover%20Logo.png
+
+
 <h1>Hi 👋, I'm Shahar Pery</h1>
 <h3>Passionate autodidact developer striving to create and deliver meaningful and valuable solutions.</h3>
 
