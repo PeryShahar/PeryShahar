@@ -1,9 +1,6 @@
 
 ![Copy of Shahar Pery Cover Logo](https://github.com/PeryShahar/PeryShahar/assets/89962400/6d4a48a3-5af5-46c7-ad9a-a49e3ab36212)
 
-<h1>Hi 👋, I'm Shahar Pery</!
-h1>
-<h3>Passionate autodidact developer striving to create and deliver meaningful and valuable solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
